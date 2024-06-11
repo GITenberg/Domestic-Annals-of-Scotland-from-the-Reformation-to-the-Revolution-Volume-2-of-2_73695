@@ -1,0 +1,36 @@
+_repo: Domestic-Annals-of-Scotland-from-the-Reformation-to-the-Revolution-Volume-2-of-2_73695
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Chambers, Robert
+    alias: Chambers, R. (Robert)
+    birthdate: 1802
+    deathdate: 1871
+    gutenberg_agent_id: '5276'
+    url: http://www.gutenberg.org/2009/agents/5276
+    wikipedia: https://en.wikipedia.org/wiki/Robert_Chambers_(publisher,_born_1802)
+description: ''
+gutenberg_issued: '2024-05-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73695'
+language: en
+pgterms:marc904: https://archive.org/details/domesticannalsof01cham/
+pgterms:marc905: 20200426040809chambers
+pgterms:marc906: '1859'
+pgterms:marc907: GB
+production_note: Susan Skinner, Mr David Mowatt, Brian Wilcox and the Online Distributed
+  Proofreading Team at https://www.pgdp.net (This file was produced from images generously
+  made available by The Internet Archive)
+publication_note: '  $aEdinburgh :$bW. & R. Chambers, $c1859.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Scotland -- History -- 16th century'
+- !lcsh 'Scotland -- History -- 17th century'
+- !lcc 'DA'
+- GITenberg
+title: Domestic Annals of Scotland from the Reformation to the Revolution, Volume
+  2 (of 2)
+url: http://www.gutenberg.org/ebooks/73695
