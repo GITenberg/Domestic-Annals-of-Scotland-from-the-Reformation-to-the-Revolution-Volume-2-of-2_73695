@@ -1,5 +1,8 @@
 _repo: Domestic-Annals-of-Scotland-from-the-Reformation-to-the-Revolution-Volume-2-of-2_73695
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73695-h/images/cover.jpg
 creator:
   author:
     agent_name: Chambers, Robert
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5276
     wikipedia: https://en.wikipedia.org/wiki/Robert_Chambers_(publisher,_born_1802)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73695#Domestic-Annals-of-Scotland-from-the-Reformation-to-the-Revolution-Volume-2-of-2
 gutenberg_issued: '2024-05-25'
 gutenberg_type: Text
 identifiers:
